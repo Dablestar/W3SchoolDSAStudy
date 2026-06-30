@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48d0baca-0fb9-4b4c-a87e-cdf103a0618d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/selectionsort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arrays/bubblesort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Arrays/bubblesort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/insertionsort.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +45,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.array.executor": "Run",
     "Python.bubblesort.executor": "Run",
+    "Python.insertionsort.executor": "Run",
     "Python.selectionsort.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -84,7 +82,7 @@
       <workItem from="1782017610791" duration="1723000" />
       <workItem from="1782713734978" duration="279000" />
       <workItem from="1782714561386" duration="5080000" />
-      <workItem from="1782725527531" duration="4150000" />
+      <workItem from="1782725527531" duration="7847000" />
     </task>
     <servers />
   </component>
@@ -92,6 +90,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/W3SchoolDSAStudy$insertionsort.coverage" NAME="insertionsort Coverage Results" MODIFIED="1782813561071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/W3SchoolDSAStudy$bubblesort.coverage" NAME="bubblesort Coverage Results" MODIFIED="1782726455128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/W3SchoolDSAStudy$selectionsort.coverage" NAME="selectionsort Coverage Results" MODIFIED="1782729671988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/W3SchoolDSAStudy$array.coverage" NAME="array Coverage Results" MODIFIED="1782018678488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
